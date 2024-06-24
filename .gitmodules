@@ -7,3 +7,6 @@
 [submodule "project3"]
 	path = project3
 	url = https://github.com/PrasaKV/DEA-DietMe
+[submodule "project4"]
+	path = project4
+	url = https://github.com/kavindukaveesha/Java-EE-Student-Management
